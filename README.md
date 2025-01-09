@@ -1,1 +1,1 @@
-# This Repositry Consists of Notebooks of EDA
+# This Repositry Consists of Notebooks of Exploratory Data Analysis (EDA)
